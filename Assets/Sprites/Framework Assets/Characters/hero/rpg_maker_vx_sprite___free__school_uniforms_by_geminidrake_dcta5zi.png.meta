@@ -1,0 +1,2424 @@
+fileFormatVersion: 2
+guid: 14f0401fdcdded4429aacc7645c8a07e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6175630122907777227
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_0
+  - first:
+      213: 6674121673735332798
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_1
+  - first:
+      213: 8108390759399223465
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_2
+  - first:
+      213: 3411464512173666246
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_3
+  - first:
+      213: 1745917768180337919
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_4
+  - first:
+      213: 3662592534736775077
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_5
+  - first:
+      213: 8186474153781516806
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_6
+  - first:
+      213: -7431367334036914767
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_7
+  - first:
+      213: 5266422732669660787
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_8
+  - first:
+      213: 2366521289520483199
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_9
+  - first:
+      213: -7122759253497123520
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_10
+  - first:
+      213: 3806081744344112197
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_11
+  - first:
+      213: 5238881943999190185
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_12
+  - first:
+      213: -8859308508828475452
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_13
+  - first:
+      213: -6827303656013656291
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_14
+  - first:
+      213: -3670391878922869032
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_15
+  - first:
+      213: -5290550022109805931
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_16
+  - first:
+      213: 329907975107300687
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_17
+  - first:
+      213: -7689080242919953588
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_18
+  - first:
+      213: 5217801637919170320
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_19
+  - first:
+      213: -410815079565894538
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_20
+  - first:
+      213: -1610166841860027609
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_21
+  - first:
+      213: 4532445474797058108
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_22
+  - first:
+      213: 2866702544174193154
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_23
+  - first:
+      213: -4474204644222110726
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_24
+  - first:
+      213: 729178166548882621
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_25
+  - first:
+      213: 9050277805528799381
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_26
+  - first:
+      213: -5684488577870022935
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_27
+  - first:
+      213: 5890824351982832642
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_28
+  - first:
+      213: 7287476344849795614
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_29
+  - first:
+      213: -9172505976309909264
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_30
+  - first:
+      213: 5216893641290952600
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_31
+  - first:
+      213: 1156208433929068499
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_32
+  - first:
+      213: 6242086072364828331
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_33
+  - first:
+      213: -1891036944702760895
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_34
+  - first:
+      213: 5952529815891571185
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_35
+  - first:
+      213: 4857309645026897926
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_36
+  - first:
+      213: -820223765582132476
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_37
+  - first:
+      213: 8439749675998880418
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_38
+  - first:
+      213: -1701058529936095395
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_39
+  - first:
+      213: -3513372073712588829
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_40
+  - first:
+      213: -4522046386601034681
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_41
+  - first:
+      213: -719265160052312503
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_42
+  - first:
+      213: 1332158213461030507
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_43
+  - first:
+      213: -4650509773351610981
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_44
+  - first:
+      213: 3927604649688000576
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_45
+  - first:
+      213: 3636014856093319118
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_46
+  - first:
+      213: 2398986676566412638
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_47
+  - first:
+      213: -355599143681272920
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_48
+  - first:
+      213: -5787266655111260971
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_49
+  - first:
+      213: 7056136229617891602
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_50
+  - first:
+      213: -1734151312292241628
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_51
+  - first:
+      213: 1673512962708898249
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_52
+  - first:
+      213: -594670891645438810
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_53
+  - first:
+      213: -8963683654382433892
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_54
+  - first:
+      213: -8030092839063739128
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_55
+  - first:
+      213: -3434155241986185734
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_56
+  - first:
+      213: 7905369123803622384
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_57
+  - first:
+      213: 3771041986739838068
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_58
+  - first:
+      213: 8684202832910618751
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_59
+  - first:
+      213: -8574636216567457287
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_60
+  - first:
+      213: -439137780429320390
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_61
+  - first:
+      213: 6774945399647214893
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_62
+  - first:
+      213: -4783135647954786083
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_63
+  - first:
+      213: 8584364086919161662
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_64
+  - first:
+      213: 1580006735015065154
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_65
+  - first:
+      213: -8586637030268265892
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_66
+  - first:
+      213: 3840105014141531636
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_67
+  - first:
+      213: 2880231773535774606
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_68
+  - first:
+      213: 458877827429266654
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_69
+  - first:
+      213: 1139981419917461813
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_70
+  - first:
+      213: 8608030040048128048
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_71
+  - first:
+      213: -925010981126682662
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_72
+  - first:
+      213: 1713117413026716029
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_73
+  - first:
+      213: -8354879973929551682
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_74
+  - first:
+      213: 3358690974472986615
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_75
+  - first:
+      213: -4690874443986531433
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_76
+  - first:
+      213: -2042214825283709151
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_77
+  - first:
+      213: -213059249547764167
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_78
+  - first:
+      213: -3243291686092902187
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_79
+  - first:
+      213: 429438412486726241
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_80
+  - first:
+      213: -3970573175677485233
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_81
+  - first:
+      213: 1788181280759929073
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_82
+  - first:
+      213: -5024938942036775176
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_83
+  - first:
+      213: -4535783579954046454
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_84
+  - first:
+      213: 8955176807917060273
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_85
+  - first:
+      213: -8665680294152231386
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_86
+  - first:
+      213: -3761603135296271719
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_87
+  - first:
+      213: -2504875256200513550
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_88
+  - first:
+      213: -8700501086310685613
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_89
+  - first:
+      213: 7712364342427508567
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_90
+  - first:
+      213: 7377223563294015338
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_91
+  - first:
+      213: 8813975216106572526
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_92
+  - first:
+      213: 7866079339838990544
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_93
+  - first:
+      213: 7494544729908703928
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_94
+  - first:
+      213: -5010826688279602403
+    second: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53741e38f11cb4aa0800000000000000
+      internalID: -6175630122907777227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3eabe1d4e3f9c50800000000000000
+      internalID: 6674121673735332798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0fc028f6ac68070800000000000000
+      internalID: 8108390759399223465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf66fb26e4f75f20800000000000000
+      internalID: 3411464512173666246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8e6bb5feba3810800000000000000
+      internalID: 1745917768180337919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7abfd418424d230800000000000000
+      internalID: 3662592534736775077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a501b7ed23c9170800000000000000
+      internalID: 8186474153781516806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdb94368ca7ed890800000000000000
+      internalID: -7431367334036914767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e21d99297161940800000000000000
+      internalID: 5266422732669660787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b844f039297d020800000000000000
+      internalID: 2366521289520483199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d6daa6230e62d90800000000000000
+      internalID: -7122759253497123520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdab55e2be1d430800000000000000
+      internalID: 3806081744344112197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4974c0f5f34b840800000000000000
+      internalID: 5238881943999190185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cfdeaf89d96d0580800000000000000
+      internalID: -8859308508828475452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f84995f7b8041a0800000000000000
+      internalID: -6827303656013656291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6e25e5806201dc0800000000000000
+      internalID: -3670391878922869032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c5b119c03496b0800000000000000
+      internalID: -5290550022109805931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dc6d03e81149400800000000000000
+      internalID: 329907975107300687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b284fe146ea4590800000000000000
+      internalID: -7689080242919953588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f9f90d1fa596840800000000000000
+      internalID: 5217801637919170320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cd91a9cdd7c4af0800000000000000
+      internalID: -410815079565894538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b02d1d9c987a9e0800000000000000
+      internalID: -1610166841860027609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38fa19352b76ee30800000000000000
+      internalID: 4532445474797058108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a163686c298c720800000000000000
+      internalID: 2866702544174193154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3fcb8d49e68e1c0800000000000000
+      internalID: -4474204644222110726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4ed1bddaf8e1a00800000000000000
+      internalID: 729178166548882621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985525b6bb099d70800000000000000
+      internalID: 9050277805528799381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6ba4291c3ac11b0800000000000000
+      internalID: -5684488577870022935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c4826898960c150800000000000000
+      internalID: 5890824351982832642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a85dbff11522560800000000000000
+      internalID: 7287476344849795614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f876ed9966b4b080800000000000000
+      internalID: -9172505976309909264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f24206021266840800000000000000
+      internalID: 5216893641290952600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df17aed17dab0010800000000000000
+      internalID: 1156208433929068499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba608b8f53850a650800000000000000
+      internalID: 6242086072364828331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1481addfaefa1c5e0800000000000000
+      internalID: -1891036944702760895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f173276452ab9250800000000000000
+      internalID: 5952529815891571185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60038e31361a86340800000000000000
+      internalID: 4857309645026897926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bc428b4dafd94f0800000000000000
+      internalID: -820223765582132476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a1275d93002570800000000000000
+      internalID: 8439749675998880418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c2059740a468e0800000000000000
+      internalID: -1701058529936095395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7659ea6befd3fc0800000000000000
+      internalID: -3513372073712588829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7ecc25c67e31c0800000000000000
+      internalID: -4522046386601034681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94674c3d528a406f0800000000000000
+      internalID: -719265160052312503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b6f946d6cc7210800000000000000
+      internalID: 1332158213461030507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9515e62002167fb0800000000000000
+      internalID: -4650509773351610981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04863da9e97a18630800000000000000
+      internalID: 3927604649688000576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf3c774f38b57230800000000000000
+      internalID: 3636014856093319118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc2a50ca9ea4120800000000000000
+      internalID: 2398986676566412638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d17e7678a01bf0800000000000000
+      internalID: -355599143681272920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d451a1b3af7fafa0800000000000000
+      internalID: -5787266655111260971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219732d048e6ce160800000000000000
+      internalID: 7056136229617891602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1b04c19e0fe7e0800000000000000
+      internalID: -1734151312292241628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c186454c23893710800000000000000
+      internalID: 1673512962708898249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4753989fd4fb7f0800000000000000
+      internalID: -594670891645438810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c994f8d35399a9380800000000000000
+      internalID: -8963683654382433892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805a23eab116f8090800000000000000
+      internalID: -8030092839063739128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af52ed9900e6750d0800000000000000
+      internalID: -3434155241986185734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe7aa655385bd60800000000000000
+      internalID: 7905369123803622384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c16b405be655430800000000000000
+      internalID: 3771041986739838068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701415377c748870800000000000000
+      internalID: 8684202832910618751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91c499ac5c00980800000000000000
+      internalID: -8574636216567457287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f8e0ee38ed7e9f0800000000000000
+      internalID: -439137780429320390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d93ae12f0750e50800000000000000
+      internalID: 6774945399647214893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8a5276873ee9db0800000000000000
+      internalID: -4783135647954786083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ef67b7a9c12770800000000000000
+      internalID: 8584364086919161662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2463c4711cf4de510800000000000000
+      internalID: 1580006735015065154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a15ab6d1326d880800000000000000
+      internalID: -8586637030268265892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f53a142a2bca4530800000000000000
+      internalID: 3840105014141531636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87a464b983a8f720800000000000000
+      internalID: 2880231773535774606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4793be3f24e5600800000000000000
+      internalID: 458877827429266654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539c9b0cf0702df00800000000000000
+      internalID: 1139981419917461813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d5f0d6bdd57770800000000000000
+      internalID: 8608030040048128048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7cb90e963b923f0800000000000000
+      internalID: -925010981126682662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d795efde53736c710800000000000000
+      internalID: 1713117413026716029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb877e40ee08d0c80800000000000000
+      internalID: -8354879973929551682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd5cb65a77c9e20800000000000000
+      internalID: 3358690974472986615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8938eb8aa6eeb0800000000000000
+      internalID: -4690874443986531433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1279defbf6898a3e0800000000000000
+      internalID: -2042214825283709151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e189acdbf0b0df0800000000000000
+      internalID: -213059249547764167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0747b25638df2d0800000000000000
+      internalID: -3243291686092902187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162dd2df5fba5f500800000000000000
+      internalID: 429438412486726241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f7c05dbb0b5e8c0800000000000000
+      internalID: -3970573175677485233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8d2b19665e0d810800000000000000
+      internalID: 1788181280759929073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8feeeddc7a4d34ab0800000000000000
+      internalID: -5024938942036775176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a1aca9dd8ad01c0800000000000000
+      internalID: -4535783579954046454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b086b83cdd274c70800000000000000
+      internalID: 8955176807917060273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62624f96fa15db780800000000000000
+      internalID: -8665680294152231386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a8ba6d0e91ccbc0800000000000000
+      internalID: -3761603135296271719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b083d935ec3dd0800000000000000
+      internalID: -2504875256200513550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3542d86fb5c914780800000000000000
+      internalID: -8700501086310685613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd7c0f182d70b60800000000000000
+      internalID: 7712364342427508567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ff7ce9eb9216660800000000000000
+      internalID: 7377223563294015338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea0127b2c7815a70800000000000000
+      internalID: 8813975216106572526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8642abb7de92d60800000000000000
+      internalID: 7866079339838990544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2fb7b59b8f10860800000000000000
+      internalID: 7494544729908703928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg_maker_vx_sprite___free__school_uniforms_by_geminidrake_dcta5zi_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b1c0eeca7f57ab0800000000000000
+      internalID: -5010826688279602403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

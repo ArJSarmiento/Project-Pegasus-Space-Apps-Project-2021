@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 1314dcf6b21f1104db1a3237a86c073e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -697155829057631921
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_0
+  - first:
+      213: 6160385469494025486
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_1
+  - first:
+      213: -2758015962473295835
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_2
+  - first:
+      213: 6345725114978473051
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_3
+  - first:
+      213: 4436094595753540774
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_4
+  - first:
+      213: -8368162967472712396
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_5
+  - first:
+      213: -5902734372973695964
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_6
+  - first:
+      213: -2577563562132417262
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_7
+  - first:
+      213: -9058752806563424657
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_8
+  - first:
+      213: -8444225430975261018
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_9
+  - first:
+      213: 5112598434032664297
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_10
+  - first:
+      213: -6105531469108128637
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_11
+  - first:
+      213: -6875075518710810290
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_12
+  - first:
+      213: 6069459343258678555
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_13
+  - first:
+      213: 2649933407337016147
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_14
+  - first:
+      213: -1184916444662599868
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_15
+  - first:
+      213: 7164652157527642686
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_16
+  - first:
+      213: 3865308287950790402
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_17
+  - first:
+      213: -3595088521870162105
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_18
+  - first:
+      213: 1578546923803210818
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_19
+  - first:
+      213: -684270866950001285
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_20
+  - first:
+      213: -789788173329359220
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_21
+  - first:
+      213: 6676729740868449373
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_22
+  - first:
+      213: 6404196679125805303
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_23
+  - first:
+      213: 495750827049691558
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_24
+  - first:
+      213: 987766106339007775
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_25
+  - first:
+      213: 1751344942772407337
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_26
+  - first:
+      213: -5782745212412212034
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_27
+  - first:
+      213: 5016387389570826133
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_28
+  - first:
+      213: -234986688449823996
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_29
+  - first:
+      213: 246527985714427989
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_30
+  - first:
+      213: -8009346113867850098
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_31
+  - first:
+      213: 2771103406305884996
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_32
+  - first:
+      213: -5194960160000793931
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_33
+  - first:
+      213: -7337678538171989213
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_34
+  - first:
+      213: -3374502104485951086
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_35
+  - first:
+      213: 7544080724741119882
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_36
+  - first:
+      213: 4998328795906642695
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_37
+  - first:
+      213: 3141171476467464400
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_38
+  - first:
+      213: -4202327641143053179
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_39
+  - first:
+      213: -8682782029968502412
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_40
+  - first:
+      213: -4213282964803672520
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_41
+  - first:
+      213: -7219852596061444613
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_42
+  - first:
+      213: -7402586274487790906
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_43
+  - first:
+      213: -2920495781274589188
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_44
+  - first:
+      213: 4045564277411809214
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_45
+  - first:
+      213: -8703722460471568056
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_46
+  - first:
+      213: -7350124063584950278
+    second: PC Computer - Baba Is You - Gameplay Sprites-export_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f494de797743356f0800000000000000
+      internalID: -697155829057631921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d5ba402f51e7550800000000000000
+      internalID: 6160385469494025486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5201cef381f89b9d0800000000000000
+      internalID: -2758015962473295835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b541198fe5b801850800000000000000
+      internalID: 6345725114978473051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac7be9088c209d30800000000000000
+      internalID: 4436094595753540774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435d5351e105edb80800000000000000
+      internalID: -8368162967472712396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c2a6f9c56451ea0800000000000000
+      internalID: -5902734372973695964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155b15c897aa3cd0800000000000000
+      internalID: -2577563562132417262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66d6b85158d84280800000000000000
+      internalID: -9058752806563424657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6566fb5b510da80800000000000000
+      internalID: -8444225430975261018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee3cb3203993f640800000000000000
+      internalID: 5112598434032664297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38457d23a7bc44ba0800000000000000
+      internalID: -6105531469108128637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f14fcd33d690a0800000000000000
+      internalID: -6875075518710810290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15fb958d1d0b3450800000000000000
+      internalID: 6069459343258678555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b63ced46476c420800000000000000
+      internalID: 2649933407337016147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 49
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fed5385c45e8fe0800000000000000
+      internalID: -1184916444662599868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32dba46d25fd6360800000000000000
+      internalID: 7164652157527642686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1eaa986554a530800000000000000
+      internalID: 3865308287950790402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74748d5790eab1ec0800000000000000
+      internalID: -3595088521870162105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244739e401028e510800000000000000
+      internalID: 1578546923803210818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_20
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7deb4d954bf086f0800000000000000
+      internalID: -684270866950001285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e16e047db1a05f0800000000000000
+      internalID: -789788173329359220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54ffb1135288ac50800000000000000
+      internalID: 6676729740868449373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8a703e2f640e850800000000000000
+      internalID: 6404196679125805303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9276720c241e600800000000000000
+      internalID: 495750827049691558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dd1815a0045bd00800000000000000
+      internalID: 987766106339007775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c402942f60e4810800000000000000
+      internalID: 1751344942772407337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_27
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc449b1edf8fbfa0800000000000000
+      internalID: -5782745212412212034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f3e1bb0c9cd9540800000000000000
+      internalID: 5016387389570826133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40bb0041ad82dbcf0800000000000000
+      internalID: -234986688449823996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55873b795e7db6300800000000000000
+      internalID: 246527985714427989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e50cf052619d090800000000000000
+      internalID: -8009346113867850098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bbcb8bddfe47620800000000000000
+      internalID: 2771103406305884996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_33
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a8d0324bc7e7b0800000000000000
+      internalID: -5194960160000793931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_34
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32340480f345b2a90800000000000000
+      internalID: -7337678538171989213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2998e40073c5b21d0800000000000000
+      internalID: -3374502104485951086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fd01be275f1b860800000000000000
+      internalID: 7544080724741119882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7031f9ebe81ad5540800000000000000
+      internalID: 4998328795906642695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8be61b0dea79b20800000000000000
+      internalID: 3141171476467464400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_39
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584fcd776455ea5c0800000000000000
+      internalID: -4202327641143053179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47115914fbf808780800000000000000
+      internalID: -8682782029968502412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_41
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8362ca867796785c0800000000000000
+      internalID: -4213282964803672520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf56319f05eedcb90800000000000000
+      internalID: -7219852596061444613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_43
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c219f1010bb44990800000000000000
+      internalID: -7402586274487790906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_44
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7e9157f805877d0800000000000000
+      internalID: -2920495781274589188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_45
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb70427a64bb42830800000000000000
+      internalID: 4045564277411809214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_46
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849d008598a263780800000000000000
+      internalID: -8703722460471568056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Baba Is You - Gameplay Sprites-export_47
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7e7f65b1d1ff990800000000000000
+      internalID: -7350124063584950278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

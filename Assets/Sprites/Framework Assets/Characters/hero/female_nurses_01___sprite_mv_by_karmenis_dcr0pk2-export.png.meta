@@ -1,0 +1,2136 @@
+fileFormatVersion: 2
+guid: 81abaee49cf82df4eadf81c281ad8ad8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6279556145195641635
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_0
+  - first:
+      213: -2585004157846022565
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_1
+  - first:
+      213: -1929503029075885987
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_2
+  - first:
+      213: 3372017279158682667
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_3
+  - first:
+      213: -4591980969962885458
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_4
+  - first:
+      213: 2728053876876751283
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_5
+  - first:
+      213: 1489890384540696996
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_6
+  - first:
+      213: -904905635215844377
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_7
+  - first:
+      213: -3719221429301294061
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_8
+  - first:
+      213: -7217643020537999940
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_9
+  - first:
+      213: 3967908884901099853
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_10
+  - first:
+      213: 1456842235000530230
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_11
+  - first:
+      213: -4579233595656248566
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_12
+  - first:
+      213: 3517597961149011760
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_13
+  - first:
+      213: 6520677246243995444
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_14
+  - first:
+      213: -6371029757462990013
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_15
+  - first:
+      213: 6276631029266301693
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_16
+  - first:
+      213: 1200326197443590270
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_17
+  - first:
+      213: -7511400525986297021
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_18
+  - first:
+      213: -1086175612959993239
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_19
+  - first:
+      213: -6129007694274378587
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_20
+  - first:
+      213: -1979879676890000134
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_21
+  - first:
+      213: -8259946888157730433
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_22
+  - first:
+      213: -681658925872606553
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_23
+  - first:
+      213: 856706306349839090
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_24
+  - first:
+      213: 591370819234508726
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_25
+  - first:
+      213: 1262029231231717046
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_26
+  - first:
+      213: 2289835210013717031
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_27
+  - first:
+      213: -3942834071532893396
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_28
+  - first:
+      213: 4697145295566230352
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_29
+  - first:
+      213: 2278532512471067403
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_30
+  - first:
+      213: 8362658131455693146
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_31
+  - first:
+      213: -3933542453769845131
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_32
+  - first:
+      213: -5306329713835468602
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_33
+  - first:
+      213: -7937602539423352970
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_34
+  - first:
+      213: 2558564921351813374
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_35
+  - first:
+      213: -264060622407513903
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_36
+  - first:
+      213: -3125681038461706651
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_37
+  - first:
+      213: 2308440300971405213
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_38
+  - first:
+      213: -2422390434836394700
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_39
+  - first:
+      213: 4369586660511836501
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_40
+  - first:
+      213: -2476111345079978103
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_41
+  - first:
+      213: -3940068636436512680
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_42
+  - first:
+      213: 4807227973535262301
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_43
+  - first:
+      213: -4949603747433402353
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_44
+  - first:
+      213: -937438582136592306
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_45
+  - first:
+      213: -4652743663696440680
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_46
+  - first:
+      213: 697300041594634955
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_47
+  - first:
+      213: -1827048402764908167
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_48
+  - first:
+      213: -3344759017808818445
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_49
+  - first:
+      213: -127037172858795982
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_50
+  - first:
+      213: 1516975227316671576
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_51
+  - first:
+      213: 4601686121478196189
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_52
+  - first:
+      213: 1952955241412281496
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_53
+  - first:
+      213: -3046355720522078846
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_54
+  - first:
+      213: -2392769383898321994
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_55
+  - first:
+      213: 484733410803426544
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_56
+  - first:
+      213: 6650353616506860395
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_57
+  - first:
+      213: 2580520438644471727
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_58
+  - first:
+      213: -8957445245262560014
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_59
+  - first:
+      213: 7547619867437518640
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_60
+  - first:
+      213: -8052175753820986991
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_61
+  - first:
+      213: -7269738019069822477
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_62
+  - first:
+      213: 7249668558243995532
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_63
+  - first:
+      213: -4140773152560050582
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_64
+  - first:
+      213: 7380062899650265898
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_65
+  - first:
+      213: 930046261924171458
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_66
+  - first:
+      213: 5925237366343276403
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_67
+  - first:
+      213: 6870635013400656454
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_68
+  - first:
+      213: -4218992271554650775
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_69
+  - first:
+      213: -1669652336860942752
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_70
+  - first:
+      213: 3599817844070572884
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_71
+  - first:
+      213: 3213915931776159169
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_72
+  - first:
+      213: -311815712754557524
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_73
+  - first:
+      213: 5524507438564422835
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_74
+  - first:
+      213: -4215468366348462642
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_75
+  - first:
+      213: 7470208774173688484
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_76
+  - first:
+      213: -1540815908675461747
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_77
+  - first:
+      213: -2318534749896141253
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_78
+  - first:
+      213: -5001193265659375848
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_79
+  - first:
+      213: -6877845965056902994
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_80
+  - first:
+      213: 1576947030860883647
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_81
+  - first:
+      213: 6077607350343864977
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_82
+  - first:
+      213: 709645074881672830
+    second: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd41e7ad4f88ad8a0800000000000000
+      internalID: -6279556145195641635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b561ea41a68302cd0800000000000000
+      internalID: -2585004157846022565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5044eec7370935e0800000000000000
+      internalID: -1929503029075885987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b248bb489dfcbce20800000000000000
+      internalID: 3372017279158682667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae220e13a10640c0800000000000000
+      internalID: -4591980969962885458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1bd531c8efbd520800000000000000
+      internalID: 2728053876876751283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a181d439672da410800000000000000
+      internalID: 1489890384540696996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebd5b18e112173f0800000000000000
+      internalID: -904905635215844377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cc979b0dba26cc0800000000000000
+      internalID: -3719221429301294061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd414dd9e7c5db90800000000000000
+      internalID: -7217643020537999940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4975a1ab18d01730800000000000000
+      internalID: 3967908884901099853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 336
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6352ef64b4eb73410800000000000000
+      internalID: 1456842235000530230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03ef5b7e4b4370c0800000000000000
+      internalID: -4579233595656248566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037dce865b401d030800000000000000
+      internalID: 3517597961149011760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f785d48691e7a50800000000000000
+      internalID: 6520677246243995444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b9f4d03e8597a0800000000000000
+      internalID: -6371029757462990013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2cc958aa21b1750800000000000000
+      internalID: 6276631029266301693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e787835215a68a010800000000000000
+      internalID: 1200326197443590270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b87eac40522c790800000000000000
+      internalID: -7511400525986297021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d3d9e8012de0f0800000000000000
+      internalID: -1086175612959993239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4c32599f361faa0800000000000000
+      internalID: -6129007694274378587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4d4f87ced0684e0800000000000000
+      internalID: -1979879676890000134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79e3cb7116ce5d80800000000000000
+      internalID: -8259946888157730433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 288
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2936981d24a86f0800000000000000
+      internalID: -681658925872606553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b1dab8d1a3eb00800000000000000
+      internalID: 856706306349839090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf210b70a8f43800800000000000000
+      internalID: 591370819234508726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec9b736e0a38110800000000000000
+      internalID: 1262029231231717046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722bc0fcdf027cf10800000000000000
+      internalID: 2289835210013717031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b89fd4d4d3849c0800000000000000
+      internalID: -3942834071532893396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0535f9082cc9f2140800000000000000
+      internalID: 4697145295566230352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b24077f39fe9f10800000000000000
+      internalID: 2278532512471067403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d27763412e0470800000000000000
+      internalID: 8362658131455693146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764126aaff3969c0800000000000000
+      internalID: -3933542453769845131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c89cb94d312c56b0800000000000000
+      internalID: -5306329713835468602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677be6dab88f7d190800000000000000
+      internalID: -7937602539423352970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef833f77d39d18320800000000000000
+      internalID: 2558564921351813374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d84b32534ed55cf0800000000000000
+      internalID: -264060622407513903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ed055f7a95f94d0800000000000000
+      internalID: -3125681038461706651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fa89c193a390020800000000000000
+      internalID: 2308440300971405213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dc540ebb0f16ed0800000000000000
+      internalID: -2422390434836394700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e71baae3e3ac30800000000000000
+      internalID: 4369586660511836501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877134c9d513add0800000000000000
+      internalID: -2476111345079978103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8504b8653701259c0800000000000000
+      internalID: -3940068636436512680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56e3e44f54b6b240800000000000000
+      internalID: 4807227973535262301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f003a47ad997f4bb0800000000000000
+      internalID: -4949603747433402353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48a009839c8df2f0800000000000000
+      internalID: -937438582136592306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929c660a422e6fb0800000000000000
+      internalID: -4652743663696440680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 192
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc20d1181be4da900800000000000000
+      internalID: 697300041594634955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b0c5682505a6e0800000000000000
+      internalID: -1827048402764908167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe883405670591d0800000000000000
+      internalID: -3344759017808818445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2384b764d5cac3ef0800000000000000
+      internalID: -127037172858795982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85417459ee06d0510800000000000000
+      internalID: 1516975227316671576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8d8e85297cdf30800000000000000
+      internalID: 4601686121478196189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894cd92e17a4a1b10800000000000000
+      internalID: 1952955241412281496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2856dcacc9b29b5d0800000000000000
+      internalID: -3046355720522078846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb6f4b3cec2bced0800000000000000
+      internalID: -2392769383898321994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a3b9087e1ab600800000000000000
+      internalID: 484733410803426544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6330ae016dca4c50800000000000000
+      internalID: 6650353616506860395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f901baa9dfc320800000000000000
+      internalID: 2580520438644471727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_59
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40d1d0203c0b380800000000000000
+      internalID: -8957445245262560014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f4b4ac7488eb860800000000000000
+      internalID: 7547619867437518640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191ac7c60dce04090800000000000000
+      internalID: -8052175753820986991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f033d9c3bc1b90800000000000000
+      internalID: -7269738019069822477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_63
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f9371b42ffb9460800000000000000
+      internalID: 7249668558243995532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_64
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e0f2aa1c40986c0800000000000000
+      internalID: -4140773152560050582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2381b12b104b6660800000000000000
+      internalID: 7380062899650265898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8baac52038ec00800000000000000
+      internalID: 930046261924171458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37713cecdfbaa3250800000000000000
+      internalID: 5925237366343276403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a7b1b7426695f50800000000000000
+      internalID: 6870635013400656454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_69
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dddd7d1e02375c0800000000000000
+      internalID: -4218992271554650775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ea00bbb0434d8e0800000000000000
+      internalID: -1669652336860942752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_71
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45360fba14f15f130800000000000000
+      internalID: 3599817844070572884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd8c7b038f1a9c20800000000000000
+      internalID: 3213915931776159169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_73
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad11e5e2453cabf0800000000000000
+      internalID: -311815712754557524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 48
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4b2aace3efaac40800000000000000
+      internalID: 5524507438564422835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec557e5fad5af75c0800000000000000
+      internalID: -4215468366348462642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_76
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a201ae1d438ba760800000000000000
+      internalID: 7470208774173688484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_77
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd02b381ced9ae0800000000000000
+      internalID: -1540815908675461747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369a09dde8e2dfd0800000000000000
+      internalID: -2318534749896141253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f0c4be831389ab0800000000000000
+      internalID: -5001193265659375848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_80
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fde0098bfc80a0800000000000000
+      internalID: -6877845965056902994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6e11438f072e510800000000000000
+      internalID: 1576947030860883647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_82
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1929c814faff75450800000000000000
+      internalID: 6077607350343864977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: female_nurses_01___sprite_mv_by_karmenis_dcr0pk2-export_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e767dec8f6a29d900800000000000000
+      internalID: 709645074881672830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

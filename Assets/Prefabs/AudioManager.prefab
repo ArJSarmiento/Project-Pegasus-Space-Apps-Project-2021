@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7618026438599231103
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7975454153318647966}
+  - component: {fileID: 6825743706642698794}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7975454153318647966
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7618026438599231103}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6825743706642698794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7618026438599231103}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e8f7f508885a7240931b8c3aa7f7c6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - name: Making Love Out Of Nothing At All
+    clip: {fileID: 8300000, guid: 0b709b990527b3746958090023fdba19, type: 3}
+    volume: 0.7
+    pitch: 1
+    randomVolume: 0
+    randomPitch: 0
+    loop: 1
+    source: {fileID: 0}
+    group: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  - name: Transition_Open
+    clip: {fileID: 8300000, guid: 18b1a4ad7ebd1d64c9e348e621cc454f, type: 3}
+    volume: 0.7
+    pitch: 1
+    randomVolume: 0
+    randomPitch: 0
+    loop: 0
+    source: {fileID: 0}
+    group: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  - name: Transition_Close
+    clip: {fileID: 8300000, guid: fe9fa9a6fb4f6cc468ba0b5fafb3c3b8, type: 3}
+    volume: 0.7
+    pitch: 1
+    randomVolume: 0
+    randomPitch: 0
+    loop: 0
+    source: {fileID: 0}
+    group: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  - name: Even
+    clip: {fileID: 8300000, guid: 00e0a12ac45fba8488f4b2f80fb34f4d, type: 3}
+    volume: 0.7
+    pitch: 1
+    randomVolume: 0
+    randomPitch: 0
+    loop: 1
+    source: {fileID: 0}
+    group: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  - name: Correct
+    clip: {fileID: 8300000, guid: 8114f8411887e894abd6376051fd04e5, type: 3}
+    volume: 0.7
+    pitch: 1
+    randomVolume: 0
+    randomPitch: 0
+    loop: 0
+    source: {fileID: 0}
+    group: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  - name: Wrong
+    clip: {fileID: 8300000, guid: b653f65bd7bf7d441aae1bbc9c4cf640, type: 3}
+    volume: 0.7
+    pitch: 1
+    randomVolume: 0
+    randomPitch: 0
+    loop: 0
+    source: {fileID: 0}
+    group: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  audioMixer: {fileID: 24300002, guid: 9107df385ef71ce40aff753981ecf007, type: 2}
+  isMainMenu: 1

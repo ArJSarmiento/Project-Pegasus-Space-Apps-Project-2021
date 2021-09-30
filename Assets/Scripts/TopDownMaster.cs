@@ -180,6 +180,7 @@ public class TopDownMaster : MonoBehaviour {
             controller.Action();
         }    
     }
+    
    public void Zoom()
     {
         zoomStart = true;

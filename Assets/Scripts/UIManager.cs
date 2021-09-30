@@ -130,8 +130,69 @@ public class UIManager : MonoBehaviour
         }
     }
 
+    public void PressToStart()
+    {
+        if (!PresstoStartCanvas.activeSelf)
+        {
+            PresstoStartCanvas.SetActive(true);
+            AudioManager.instance.playSound("Transition_Open");
+        }
+        else
+        {
+            PresstoStartCanvas.SetActive(false);
+            AudioManager.instance.playSound("Transition_Close");
+        }
+    }
 
-    public void SweetMessageToggle()
+    public void SettingsToggle()
+    {
+        WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
+        if (!SettingsUI.activeSelf)
+        {
+            AudioManager.instance.playSound("Transition_Open");
+            SettingsUI.SetActive(true);
+            SettingButton.SetActive(false);
+            Time.timeScale = 0;  
+        }
+        else
+        {
+            AudioManager.instance.playSound("Transition_Close");
+            SettingsUI.SetActive(false);
+            SettingButton.SetActive(true);
+            Time.timeScale = 1;
+        }
+    }
+
+    public void SetVolume(float volume)
+    {
+        float sliderValue = slider.value;
+        audioMixer.SetFloat("Volume", Mathf.Log10(volume) * 20);
+        PlayerPrefs.SetFloat("MusicVolume", sliderValue);
+    }
+
+    public void MuteToggle (bool value)
+    {
+        slider.enabled = !value;
+        if (value)
+        {
+            mysliderValue =  slider.value;
+            slider.value = 0.0001f;        
+        }
+        else
+        {
+            slider.value= mysliderValue;
+        }
+    }
+
+    public void LoadLevel()
+    {
+        if (levelSelectButton!= null)
+        {
+            TopDownMaster.gm.GetComponent<LevelLoader>().LoadTo(levelSelectButton.Level);
+        }
+    } 
+    
+/*    public void SweetMessageToggle()
     {
         if (MessageObject != null)
         {
@@ -170,24 +231,6 @@ public class UIManager : MonoBehaviour
         }
     }
 
-    public void SettingsToggle()
-    {
-        WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
-        if (!SettingsUI.activeSelf)
-        {
-            AudioManager.instance.playSound("Transition_Open");
-            SettingsUI.SetActive(true);
-            SettingButton.SetActive(false);
-            Time.timeScale = 0;  
-        }
-        else
-        {
-            AudioManager.instance.playSound("Transition_Close");
-            SettingsUI.SetActive(false);
-            SettingButton.SetActive(true);
-            Time.timeScale = 1;
-        }
-    }
 
     public void WinUiToggle ()
     {
@@ -258,46 +301,4 @@ public class UIManager : MonoBehaviour
         levelImageAnimator.SetBool("Open", LevelPreview);
     }
 
-    public void PressToStart()
-    {
-        if (!PresstoStartCanvas.activeSelf)
-        {
-            PresstoStartCanvas.SetActive(true);
-            AudioManager.instance.playSound("Transition_Open");
-        }
-        else
-        {
-            PresstoStartCanvas.SetActive(false);
-            AudioManager.instance.playSound("Transition_Close");
-        }
-    }
-
-    public void SetVolume(float volume)
-    {
-        float sliderValue = slider.value;
-        audioMixer.SetFloat("Volume", Mathf.Log10(volume) * 20);
-        PlayerPrefs.SetFloat("MusicVolume", sliderValue);
-    }
-
-    public void MuteToggle (bool value)
-    {
-        slider.enabled = !value;
-        if (value)
-        {
-            mysliderValue =  slider.value;
-            slider.value = 0.0001f;        
-        }
-        else
-        {
-            slider.value= mysliderValue;
-        }
-    }
-
-    public void LoadLevel()
-    {
-        if (levelSelectButton!= null)
-        {
-            TopDownMaster.gm.GetComponent<LevelLoader>().LoadTo(levelSelectButton.Level);
-        }
-    } 
 }

@@ -28,7 +28,7 @@ public class Interactable : MonoBehaviour {
 			{
 				Interact();
 				hasInteracted = true;
-				TopDownMaster.gm.signRange = false;
+				// TopDownMaster.gm.signRange = false;
 			}
 			else
 			{

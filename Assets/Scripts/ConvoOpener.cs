@@ -7,6 +7,6 @@ public class ConvoOpener : Interactable
    public override void Interact()
 	{ 
         Debug.Log("open convo");
-		TopDownMaster.gm.uiManager.SweetWordsToggle();
+		// TopDownMaster.gm.uiManager.SweetWordsToggle();
 	}
 }

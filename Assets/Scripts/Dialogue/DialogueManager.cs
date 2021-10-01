@@ -24,15 +24,17 @@ public class DialogueManager : MonoBehaviour {
 		names = new Queue<string>();
 		dialogbox.SetActive(false);
 	}
-
 	
 	public void StartDialogue (Dialogue dialogue)
 	{
 		dialogbox.SetActive(true);
-
-		foreach (GameObject UI in UIs)
+		TopDownMaster.gm.activePlayer.GetComponent<TopDownMovement>().enabled = false;
+		if (UIs.Length > 0)
 		{
-			UI.SetActive(false);
+			foreach (GameObject UI in UIs)
+			{
+				UI.SetActive(false);
+			}
 		}
 
 		animator.SetBool("IsOpen", true);
@@ -57,26 +59,30 @@ public class DialogueManager : MonoBehaviour {
 
 	public void DisplayNextSentence ()
 	{
-		if(isTyping)
-		{
-			StopAllCoroutines();
-			rushDialog(sentence_);
-		}
-		else
-		{
-			if (sentences.Count == 0)
+	
+			if(isTyping)
 			{
-				EndDialogue();
-				isTyping = false;
-				return;
-			}		
-			string sentence = sentences.Dequeue();
-			string name = names.Dequeue();
-			nameText.text = name;
-			
-			StartCoroutine(TypeSentence(sentence));
-			sentence_ = sentence;	
-		}
+				StopAllCoroutines();
+				rushDialog(sentence_);
+			}
+			else
+			{
+				if (sentences.Count == 0)
+				{
+					EndDialogue();
+					isTyping = false;
+					return;
+				}		
+				else{
+					string sentence = sentences.Dequeue();
+					string name = names.Dequeue();
+					nameText.text = name;
+					
+					StartCoroutine(TypeSentence(sentence));
+					sentence_ = sentence;	
+				}
+			}
+		
 	}
 
 	void rushDialog(string _sentence)
@@ -98,8 +104,8 @@ public class DialogueManager : MonoBehaviour {
 
 	IEnumerator TypeSentence (string sentence)
 	{
-		dialogueText.text = "";
 		isTyping = true;
+		dialogueText.text = "";
 
 		foreach (char letter in sentence.ToCharArray())
 		{		
@@ -119,17 +125,16 @@ public class DialogueManager : MonoBehaviour {
 			TPM.NPCAnimator.SetFloat("Horizontal",0f);
 			TPM.NPCAnimator.SetBool("Interact", false);			
 		}
-		foreach (GameObject UI in UIs)
+		if (UIs.Length > 0)
 		{
-			UI.SetActive(true);
+			foreach (GameObject UI in UIs)
+			{
+				UI.SetActive(true);
+			}
 		}
 		TPM.resetZoom();
 		animator.SetBool("IsOpen", false);
-		if (TPM.isFirstRun == true)
-		{
-			TPM.Transition.SetActive(true);
-			TPM.isFirstRun = false;
-		}
+		TopDownMaster.gm.activePlayer.GetComponent<TopDownMovement>().enabled = true;
 		dialogbox.SetActive(false);
 	}
 }

@@ -67,65 +67,14 @@ public class TopDownMovement : MonoBehaviour {
 		{	
 			movement = Vector2.zero;	
 		}
-			if (movement!= Vector2.zero)
-			{
-				animator.SetFloat("Horizontal",(movement.x));
-				animator.SetFloat("Vertical", (movement.y));
-				
-			}
 
-			animator.SetFloat("Speed", movement.sqrMagnitude);
-        // animatorBottom.SetBool("Aim", isShooting);
+		if (movement.x!= 0f)
+		{
+			animator.SetFloat("Horizontal",(movement.x));
+			// animator.SetFloat("Vertical", (movement.y));
+		}
 
-        // animatorTop.SetFloat("MoveHorizontal", Mathf.Abs(movement.x));
-        // animatorTop.SetFloat("MoveVertical", Mathf.Abs(movement.y));
-        // animatorTop.SetFloat("MoveMagnitude", movement.magnitude);
-        // animatorTop.SetBool("Aim", isShooting);
-
-
-        // //Rotate the player based on direction pointing - its more natural
-
-		// if (isShooting && hasEnemy)
-		// {
-		// 	if (playercontroller.nearestInteractable != null)
-		// 	{
-		// 		//face enemy		
-		// 		Vector2 distance = this.transform.position - playercontroller.nearestInteractable.transform.position;
-		
-		// 		//Normalize the vector x + y + z = 1
-		// 		distance.Normalize();// rotate based on distance  from player to enemy
-				
-		// 		//find the angle in degrees
-		// 		float rotZ = Mathf.Abs(Mathf.Atan2(distance.y, distance.x) * Mathf.Rad2Deg);
-				
-		// 		if(((rotZ > 90f) && !m_FacingRight) || ((rotZ <= 90f) && m_FacingRight)) 
-		// 		{	
-		// 			FlipTop();
-		// 			StartCoroutine ( RotateReset() );						
-		// 		} 					
-		// 	}
-		// }
-		// else
-		// {
-		// 	//Normalize the vector x + y + z = 1
-		// 	movement.Normalize();
-			
-		// 	//find the angle in degrees
-		// 	float rotZ = Mathf.Abs(Mathf.Atan2(movement.y, movement.x) * Mathf.Rad2Deg);
-			
-		// 	if(((rotZ <= 90f) && !m_FacingRight) || ((rotZ > 90f) && m_FacingRight)) 
-		// 	{
-		// 		if (movement != Vector2.zero)
-		// 		{
-		// 			//face right
-		// 			Flip();
-		// 			if (!m_RightSideUp || m_RightSideUp) 
-		// 			{
-		// 				//invertArm();
-		// 			}
-		// 		}
-		// 	} 
-		// }        
+		animator.SetFloat("Speed", movement.sqrMagnitude);
 	}
 
 	private void FixedUpdate() 

@@ -91,14 +91,14 @@ public class UIManager : MonoBehaviour
                 {
                     AudioManager.instance.playSound("Transition_Open");
                     SettingsUI.SetActive(true);
-                    SettingButton.SetActive(false);
+                
                     Time.timeScale = 0;  
                 }
                 else
                 {
                     AudioManager.instance.playSound("Transition_Close");
                     SettingsUI.SetActive(false);
-                    SettingButton.SetActive(true);
+            
                     Time.timeScale = 1;
                 }                
             }
@@ -146,19 +146,19 @@ public class UIManager : MonoBehaviour
 
     public void SettingsToggle()
     {
-        WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
+        //WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
         if (!SettingsUI.activeSelf)
         {
             AudioManager.instance.playSound("Transition_Open");
             SettingsUI.SetActive(true);
-            SettingButton.SetActive(false);
+            //SettingButton.SetActive(false);
             Time.timeScale = 0;  
         }
         else
         {
             AudioManager.instance.playSound("Transition_Close");
             SettingsUI.SetActive(false);
-            SettingButton.SetActive(true);
+          //  SettingButton.SetActive(true);
             Time.timeScale = 1;
         }
     }
@@ -190,48 +190,7 @@ public class UIManager : MonoBehaviour
         {
             TopDownMaster.gm.GetComponent<LevelLoader>().LoadTo(levelSelectButton.Level);
         }
-    } 
-    
-/*    public void SweetMessageToggle()
-    {
-        if (MessageObject != null)
-        {
-            
-            WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
-            if (SweetButton.useList)
-            {
-                if (!PickupCanvas.activeSelf)
-                {
-                    AudioManager.instance.playSound("Transition_Open");
-                    PickupCanvas.SetActive(true);
-                    MessageObject.SetActive(true);
-                }
-                else
-                {
-                    AudioManager.instance.playSound("Transition_Close");
-                    PickupCanvas.SetActive(false);
-                    MessageObject.SetActive(false); 
-                }
-            }
-            else
-            {
-                if (!SweetMessageUI.activeSelf)
-                {
-                    AudioManager.instance.playSound("Transition_Open");
-                    SweetMessageUI.SetActive(true);
-                    MessageObject.SetActive(true);
-                }
-                else
-                {
-                    AudioManager.instance.playSound("Transition_Close");
-                    SweetMessageUI.SetActive(false);
-                    MessageObject.SetActive(false); 
-                }                 
-            }
-        }
     }
-
-
     public void WinUiToggle ()
     {
         if (!WinUI.activeSelf)
@@ -251,54 +210,96 @@ public class UIManager : MonoBehaviour
             Dpad.SetActive(true);           
         }
     }
-
-
-    public void MessageToggle()
-    {
-        WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
-        if (!MessageUI.activeSelf)
-        {
-            AudioManager.instance.playSound("Transition_Open");
-            MessageUI.SetActive(true);
-        }
-        else
-        {
-            AudioManager.instance.playSound("Transition_Close");
-            MessageUI.SetActive(false); 
-        }
-    }
+} 
     
-    public void SweetWordsToggle()
-    {
-        WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
-        if (!SweetWordsUI.activeSelf)
-        {
-            AudioManager.instance.playSound("Transition_Open");
-            SweetWordsUI.SetActive(true);
+//   public void SweetMessageToggle()
+//     {
+//         if (MessageObject != null)
+//         {
             
-            SweetButton.GetComponent<Button>().Select();  
-           // SweetButton.Pressed();
-        }
-        else
-        {
-            AudioManager.instance.playSound("Transition_Close");
-            SweetWordsUI.SetActive(false);
-        }
-    }
-    public void OpenLevelPreview () 
-    {
-        if (!LevelPreview)
-        {
-            AudioManager.instance.playSound("Transition_Open");
-            LevelPreview = true;
-        }
-        else
-        {
-            LevelPreview = false;
-            AudioManager.instance.playSound("Transition_Close");
-        }
-        
-        levelImageAnimator.SetBool("Open", LevelPreview);
-    }
+//             WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
+//             if (SweetButton.useList)
+//             {
+//                 if (!PickupCanvas.activeSelf)
+//                 {
+//                     AudioManager.instance.playSound("Transition_Open");
+//                     PickupCanvas.SetActive(true);
+//                     MessageObject.SetActive(true);
+//                 }
+//                 else
+//                 {
+//                     AudioManager.instance.playSound("Transition_Close");
+//                     PickupCanvas.SetActive(false);
+//                     MessageObject.SetActive(false); 
+//                 }
+//             }
+//             else
+//             {
+//                 if (!SweetMessageUI.activeSelf)
+//                 {
+//                     AudioManager.instance.playSound("Transition_Open");
+//                     SweetMessageUI.SetActive(true);
+//                     MessageObject.SetActive(true);
+//                 }
+//                 else
+//                 {
+//                     AudioManager.instance.playSound("Transition_Close");
+//                     SweetMessageUI.SetActive(false);
+//                     MessageObject.SetActive(false); 
+//                 }                 
+//             }
+//         }
+//     }
 
-}
+
+
+
+//     public void MessageToggle()
+//     {
+//         WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
+//         if (!MessageUI.activeSelf)
+//         {
+//             AudioManager.instance.playSound("Transition_Open");
+//             MessageUI.SetActive(true);
+//         }
+//         else
+//         {
+//             AudioManager.instance.playSound("Transition_Close");
+//             MessageUI.SetActive(false); 
+//         }
+//     }
+    
+//     public void SweetWordsToggle()
+//     {
+//         WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
+//         if (!SweetWordsUI.activeSelf)
+//         {
+//             AudioManager.instance.playSound("Transition_Open");
+//             SweetWordsUI.SetActive(true);
+            
+//             SweetButton.GetComponent<Button>().Select();  
+//            // SweetButton.Pressed();
+//         }
+//         else
+//         {
+//             AudioManager.instance.playSound("Transition_Close");
+//             SweetWordsUI.SetActive(false);
+//         }
+//     }
+//     public void OpenLevelPreview () 
+//     {
+//         if (!LevelPreview)
+//         {
+//             AudioManager.instance.playSound("Transition_Open");
+//             LevelPreview = true;
+//         }
+//         else
+//         {
+//             LevelPreview = false;
+//             AudioManager.instance.playSound("Transition_Close");
+//         }
+        
+//         levelImageAnimator.SetBool("Open", LevelPreview);
+//     }
+
+// }

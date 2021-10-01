@@ -10,20 +10,6 @@ public class TopDownMaster : MonoBehaviour {
 //singleton instance for other scripts to access this
     public static TopDownMaster gm;
 
-    [Header("Messaging System")]
-    [Space(10)]
-    [SerializeField]
-    List<Message> messageList =  new List<Message>();
-    public List<string> myMessages =  new List<string>();
-    public List<Sprite> myPictures =  new List<Sprite>();
-    public int maxMassages = 25;
-    public string username = "";
-    public GameObject chatPanel, textObject, pictureObject;
-    public InputField chatBox;
-    public Color playerMessage, info;
-    private TouchScreenKeyboard touchScreenKeyboard;
-    private string inputText = string.Empty;
-
     [Header("Player")] 
     [Space(10)]
     public GameObject Character;
@@ -97,62 +83,22 @@ public class TopDownMaster : MonoBehaviour {
         }            
     }
 
-
-
     private void Update() 
     {
-        if (chatBox.text != "")
-        {
-            if(touchScreenKeyboard == null)
-                touchScreenKeyboard = chatBox.touchScreenKeyboard;
-              //  inputText = touchScreenKeyboard.text;
-
-        }
-        else
-        {
-            if(!chatBox.isFocused&&Input.GetKeyDown(KeyCode.Return))
-            {
-                chatBox.ActivateInputField(); 
-            }
-        }
-
-        if (!chatBox.isFocused)
-        {
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                SendMessagetoChat("paboritong anak: " + myMessages[Random.Range(0, myMessages.Count-1)] , Message.MessageType.info, null);
-                Debug.Log("Space");
-            }        
-        }
-
         if (zoomStart && timeline.time >= (timeline.duration/2) && lastTime <  (timeline.duration/2))
         {
             timeline.Pause();
             zoomStart = false;
         }
         lastTime = timeline.time;
-    }
 
-    public void EnterKey()
-    {
-        if (chatBox.text != "")
+        if (Input.GetKeyDown("space"))
         {
-            SendMessagetoChat(username + ": " + chatBox.text, Message.MessageType.playerMessage, null);
-            if ((chatBox.text.Contains("I") && chatBox.text.Contains("love")) || (chatBox.text.Contains("I") && chatBox.text.Contains("miss")) || (chatBox.text.Contains("I") && chatBox.text.Contains("LOVE")) || (chatBox.text.Contains("I") && chatBox.text.Contains("MISS")) || chatBox.text.Contains("HI") || chatBox.text.Contains("Hi")|| chatBox.text.Contains("hi")|| chatBox.text.Contains("Hello")|| chatBox.text.Contains("HELLO")|| chatBox.text.Contains("hello")|| chatBox.text.Contains("good")|| chatBox.text.Contains("Good")|| chatBox.text.Contains("GOOD")|| ((chatBox.text.Contains("i") && (chatBox.text.Contains("love")))))
-            {
-                StartCoroutine(Reply());
-            }
-            chatBox.text = "";            
+            action();
         }
+
     }
 
-    IEnumerator Reply() {
-        
-        yield return new WaitForSeconds(1);
-        SendMessagetoChat(null, Message.MessageType.info, myPictures[Random.Range(0, myPictures.Count)]);
-        SendMessagetoChat("paboritong anak: " +myMessages[Random.Range(0, myMessages.Count-1)], Message.MessageType.info, null);
-        SendMessagetoChat("paboritong anak: " +"HE HE", Message.MessageType.info, null);
-    }
 
     public void HideControls(bool isOn)
     {
@@ -168,10 +114,6 @@ public class TopDownMaster : MonoBehaviour {
             }
 		}
     }
-    // public void OnInputEvent()
-    // {
-    //     mobileKeys = TouchScreenKeyboard.Open("", TouchScreenKeyboardType.default, false);
-    // }
 
     public void action()
     {
@@ -231,31 +173,6 @@ public class TopDownMaster : MonoBehaviour {
        //StartCoroutine(position(data));
     }
 
-    public void SendMessagetoChat(string text, Message.MessageType messageType, Sprite sprite) 
-    {
-        if (messageList.Count >= maxMassages)
-        {
-            Destroy(messageList[0].textObject.gameObject);
-            messageList.Remove(messageList[0]);
-        }
-        Message newMessage =  new Message();
-
-        if(text != null)
-        {
-            newMessage.text=text;
-            GameObject newText = Instantiate(textObject, chatPanel.transform);
-            newMessage.textObject =  newText.GetComponent<Text>();
-            newMessage.textObject.text =  newMessage.text;
-            newMessage.textObject.color = MessageTypeColor(messageType);            
-        }
-        if(sprite != null)
-        {
-            GameObject newSpite = Instantiate(pictureObject, chatPanel.transform);
-            newSpite.transform.GetChild(0).gameObject.GetComponent<Image>().sprite = sprite;
-        }
-
-        messageList.Add(newMessage);
-    }
 
     IEnumerator position(PlayerData data) {
         
@@ -268,34 +185,81 @@ public class TopDownMaster : MonoBehaviour {
         Player.transform.position = position;
     }
     
-    Color MessageTypeColor(Message.MessageType messageType)
-    {
-        Color color = info;
-        switch(messageType)
-        {
-            case Message.MessageType.playerMessage:
-                color = playerMessage;
-                break;
-        }
-        return color;    
-    }
 
     public void Quit()
     {
         Application.Quit();
     }
+
+    // Color MessageTypeColor(Message.MessageType messageType)
+    // {
+    //     Color color = info;
+    //     switch(messageType)
+    //     {
+    //         case Message.MessageType.playerMessage:
+    //             color = playerMessage;
+    //             break;
+    //     }
+    //     return color;    
+    // }
+    // public void EnterKey()
+    // {
+    //     if (chatBox.text != "")
+    //     {
+    //         SendMessagetoChat(username + ": " + chatBox.text, Message.MessageType.playerMessage, null);
+    //         if ((chatBox.text.Contains("I") && chatBox.text.Contains("love")) || (chatBox.text.Contains("I") && chatBox.text.Contains("miss")) || (chatBox.text.Contains("I") && chatBox.text.Contains("LOVE")) || (chatBox.text.Contains("I") && chatBox.text.Contains("MISS")) || chatBox.text.Contains("HI") || chatBox.text.Contains("Hi")|| chatBox.text.Contains("hi")|| chatBox.text.Contains("Hello")|| chatBox.text.Contains("HELLO")|| chatBox.text.Contains("hello")|| chatBox.text.Contains("good")|| chatBox.text.Contains("Good")|| chatBox.text.Contains("GOOD")|| ((chatBox.text.Contains("i") && (chatBox.text.Contains("love")))))
+    //         {
+    //             StartCoroutine(Reply());
+    //         }
+    //         chatBox.text = "";            
+    //     }
+    // }
+
+    // IEnumerator Reply() {
+        
+    //     yield return new WaitForSeconds(1);
+    //     SendMessagetoChat(null, Message.MessageType.info, myPictures[Random.Range(0, myPictures.Count)]);
+    //     SendMessagetoChat("paboritong anak: " +myMessages[Random.Range(0, myMessages.Count-1)], Message.MessageType.info, null);
+    //     SendMessagetoChat("paboritong anak: " +"HE HE", Message.MessageType.info, null);
+    // }
+
+    // public void SendMessagetoChat(string text, Message.MessageType messageType, Sprite sprite) 
+    // {
+    //     if (messageList.Count >= maxMassages)
+    //     {
+    //         Destroy(messageList[0].textObject.gameObject);
+    //         messageList.Remove(messageList[0]);
+    //     }
+    //     Message newMessage =  new Message();
+
+    //     if(text != null)
+    //     {
+    //         newMessage.text=text;
+    //         GameObject newText = Instantiate(textObject, chatPanel.transform);
+    //         newMessage.textObject =  newText.GetComponent<Text>();
+    //         newMessage.textObject.text =  newMessage.text;
+    //         newMessage.textObject.color = MessageTypeColor(messageType);            
+    //     }
+    //     if(sprite != null)
+    //     {
+    //         GameObject newSpite = Instantiate(pictureObject, chatPanel.transform);
+    //         newSpite.transform.GetChild(0).gameObject.GetComponent<Image>().sprite = sprite;
+    //     }
+
+    //     messageList.Add(newMessage);
+    // }
 }
 
-[System.Serializable]
-public class Message
-{
-    public string text;
-    public Text textObject;
-    public MessageType messageType;
+// [System.Serializable]
+// public class Message
+// {
+//     public string text;
+//     public Text textObject;
+//     public MessageType messageType;
 
-    public enum MessageType
-    {
-        playerMessage,
-        info
-    }
-}
+//     public enum MessageType
+//     {
+//         playerMessage,
+//         info
+//     }
+// }

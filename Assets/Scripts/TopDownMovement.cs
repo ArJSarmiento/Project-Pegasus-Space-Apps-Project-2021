@@ -76,7 +76,7 @@ public class TopDownMovement : MonoBehaviour {
 
 		animator.SetFloat("Speed", movement.sqrMagnitude);
 	}
-
+	
 	private void FixedUpdate() 
 	{
 		rb.MovePosition(rb.position + movement * runspeed* Time.fixedDeltaTime);

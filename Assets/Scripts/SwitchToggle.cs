@@ -14,7 +14,6 @@ public class SwitchToggle : MonoBehaviour {
    Color backgroundDefaultColor, handleDefaultColor ;
 
    Toggle toggle ;
-   
    public bool isMute = false;
 
    Vector2 handlePosition ;

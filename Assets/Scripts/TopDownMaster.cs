@@ -46,7 +46,16 @@ public class TopDownMaster : MonoBehaviour {
     public LevelLoader levelLoader;
     
 
+    public CinemachineVirtualCamera c_VirtualCamera;
+    [SerializeField] Transform target;
+    public Transform a1;
+    public Transform a2;
+    public Transform a3;
+    public Transform a4;
+    
+
 	void Awake() {
+        
         if (gm == null) {
             gm = GameObject.FindGameObjectWithTag("GM").GetComponent<TopDownMaster>();
         }    
@@ -97,6 +106,28 @@ public class TopDownMaster : MonoBehaviour {
             action();
         }
 
+    }
+
+    public void LookA1()
+    {
+        c_VirtualCamera.m_LookAt = a1.transform;
+        c_VirtualCamera.m_Follow = a1.transform;
+    }
+
+        public void LookA2()
+    {
+        c_VirtualCamera.m_LookAt = a2.transform;
+        c_VirtualCamera.m_Follow = a2.transform;
+    }
+        public void LookA3()
+    {
+        c_VirtualCamera.m_LookAt = a3.transform;
+        c_VirtualCamera.m_Follow = a3.transform;
+    }
+        public void LookA4()
+    {
+        c_VirtualCamera.m_LookAt = a4.transform;
+        c_VirtualCamera.m_Follow = a4.transform;
     }
 
 

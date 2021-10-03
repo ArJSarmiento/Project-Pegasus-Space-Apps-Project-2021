@@ -13,6 +13,7 @@ public class LevelLoader : MonoBehaviour
     [SerializeField] private string LevelSelect;
     [SerializeField] private string LevelOne;
     [SerializeField] private string House;
+    
 
     public Animator transition;
     public float transitionTime = 1f;

@@ -30,7 +30,7 @@ public class PlayerTopDown : MonoBehaviour {
 	{
 		health = startHealth ;
 //		statusIndicator.setHealth(health, startHealth);
-		
+
 	}
 	
 

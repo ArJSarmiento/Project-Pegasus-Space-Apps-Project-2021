@@ -41,6 +41,8 @@ public class UIManager : MonoBehaviour
     public GameObject WinUI;
     public GameObject ActionButton;
     public GameObject Dpad;
+    
+    public GameObject GoToPlanet;
 
     public Button[] buttonsCollection;
     
@@ -210,6 +212,32 @@ public class UIManager : MonoBehaviour
             Dpad.SetActive(true);           
         }
     }
+
+    public void GoToSelectPlanet()
+    {
+        if (!GoToPlanet.activeSelf)
+        {
+            GoToPlanet.SetActive(true);
+        }
+        else{
+            GoToPlanet.SetActive(false);
+        }
+    }
+    public void SweetWordsToggle()
+    {
+        // WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
+        if (!SweetWordsUI.activeSelf)
+        {
+            // AudioManager.instance.playSound("Transition_Open");
+            SweetWordsUI.SetActive(true);
+            
+        }
+        else
+        {
+           
+            SweetWordsUI.SetActive(false);
+        }
+    }
 } 
     
 //   public void SweetMessageToggle()
@@ -269,23 +297,6 @@ public class UIManager : MonoBehaviour
 //         }
 //     }
     
-//     public void SweetWordsToggle()
-//     {
-//         WhenClicked(EventSystem.current.currentSelectedGameObject.GetComponent<Button>());
-//         if (!SweetWordsUI.activeSelf)
-//         {
-//             AudioManager.instance.playSound("Transition_Open");
-//             SweetWordsUI.SetActive(true);
-            
-//             SweetButton.GetComponent<Button>().Select();  
-//            // SweetButton.Pressed();
-//         }
-//         else
-//         {
-//             AudioManager.instance.playSound("Transition_Close");
-//             SweetWordsUI.SetActive(false);
-//         }
-//     }
 //     public void OpenLevelPreview () 
 //     {
 //         if (!LevelPreview)
